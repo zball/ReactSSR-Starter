@@ -29,6 +29,6 @@ app.get('*', (req, res) => {
     Promise.all(promises).then(() => res.send(renderer(req, store)));
 });
 
-app.listen(3000, () => {
+app.listen(3000, "0.0.0.0", () => {
     console.log('listening on port 3000');
 });
