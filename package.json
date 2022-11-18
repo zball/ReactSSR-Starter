@@ -44,7 +44,7 @@
     "babel-preset-env": "1.7.0",
     "terser-webpack-plugin": "^2.1.0",
     "webpack": "4.40.2",
-    "webpack-cli": "^3.3.9",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "3.8.1",
     "webpack-merge": "4.2.2",
     "webpack-node-externals": "1.7.2"
